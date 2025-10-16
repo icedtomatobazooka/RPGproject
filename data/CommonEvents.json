@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"list":[{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":235,"indent":0,"parameters":[4]},{"code":235,"indent":0,"parameters":[5]},{"code":235,"indent":0,"parameters":[6]},{"code":121,"indent":0,"parameters":[2,2,1]},{"code":0,"indent":0,"parameters":[]}],"name":"modorubutton","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":355,"indent":0,"parameters":["window.top.location.href = \"https://icedtomatobazooka.site/keyinputking\";"]},{"code":0,"indent":0,"parameters":[]}],"name":"ketteibutton","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
-]
